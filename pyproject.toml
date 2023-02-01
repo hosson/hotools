@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "hotools"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["HOSOI Hiroyuki <hosoi0410@gmail.com>"]
 

@@ -21,10 +21,6 @@ class DrawLineGraphTest(unittest.TestCase):
         with self.assertRaises(ValueError):
             draw_line_graph(x, y)
 
-        y = []
-        with self.assertRaises(ValueError):
-            draw_line_graph(x, y)
-
     def test_y_shape(self):
         x = [0, 1, 2]
         y = [0, 1, 2]

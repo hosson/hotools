@@ -7,7 +7,7 @@ AUTHOR_EMAIL = 'hosoi0410@gmail.com'
 URL = 'https://github.com/hosson/hotools'
 LICENSE = 'MIT'
 DOWNLOAD_URL = URL
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 PYTHON_REQUIRES = '>=3.8'
 PACKAGES = [
     'hotools'
